@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "testdeepequal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "is-subset": "^0.1.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
